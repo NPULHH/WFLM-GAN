@@ -7,11 +7,11 @@ The synthetic aperture radar (SAR) system is a kind of active remote sensing, wh
 
 ## Structure of WFLM-GAN
 
-![image][https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure1.png](https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure1.png)
+![image](https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure1.png)
 
 ## Results on SEN1-2
 
-![image][https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure2.png](https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure2.png)
+![image](https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure2.png)
 
 This repository provides:
 
