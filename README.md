@@ -225,7 +225,7 @@ python SSIM_PSNR.py --result_path
 ```
 ## Citation
 
-If you use our model, please cite our paper below.
+If you find our work useful in your research, please consider citing our paper:
 
 ```BibTeX
 @article{multiscale2022generative,
