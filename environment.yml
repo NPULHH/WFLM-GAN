@@ -1,4 +1,4 @@
-name: pytorch-CycleGAN-and-pix2pix
+name: WFLM-GAN
 channels:
 - pytorch
 - defaults
@@ -8,10 +8,13 @@ dependencies:
 - scipy
 - pip
 - pip:
-  - dominate==2.6.0
-  - torchvision==0.9.1
-  - Pillow==8.0.1
-  - numpy==1.19.2
-  - visdom==0.1.8
-  - wandb==0.12.18
+  - dominate>=2.6.0
+  - torchvision>=0.9.1
+  - Pillow>=8.0.1
+  - numpy>=1.19.2
+  - wandb>=0.12.18
+  - visdom>=0.1.8.8
+  - opencv>=4.1.1.26
+  - scikit-image>=0.17.2
+  - wandb
 
