@@ -14,6 +14,21 @@ This repository provides:
 ##  Sentinel l-2 Dataset
 The Sentinel l-2 Dataset is used to support SAR-to-Optical image translation.
 
+
+
+## Usage
+
+### Train
+python train.py --dataroot /WFLM-GAN/datasets/ --model wflm_gan --name fall_wflmgan --no_flip
+
+### Test
+python test.py --dataroot /WFLM-GAN/datasets/ --model wflm_gan --name fall_wflmgan --no_flip 
+
+### Evaluate
+
+cd evaluation
+python SSIM_PSNR.py --result_path 
+
 ## Citation
 
 If you use our model, please cite our paper below.
