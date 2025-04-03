@@ -1,2 +1,0 @@
-opencv=4.1.1.26
-scikit-image=0.17.2
