@@ -4,7 +4,7 @@ Paper link: [Multiscale Generative Adversarial Network Based on Wavelet Feature 
 This repository provides:
 
 1. the official code implementation of WFLM-GAN.
-2. the  Sentinel l-2 dataset used in our research. 
+2. the  Sentinel l1-2 dataset used in our research. 
 
 - Use `train.py` to start training. 
 
