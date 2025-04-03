@@ -7,21 +7,24 @@ The synthetic aperture radar (SAR) system is a kind of active remote sensing, wh
 
 ## Structure of WFLM-GAN
 
-![image](https://github.com/NWPU-IVIP/Seg-CycleGAN-and-HRSID-DIOR/blob/main/figures/fig1.png)
+![image][(https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure1.png)](https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure1.png)
 
+## Results on SEN1-2
+
+![image][(https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure2.png)](https://github.com/NWPU-IVIP/WFLM-GAN/blob/main/figures/figure2.png)
 
 This repository provides:
 
 1. the official code implementation of WFLM-GAN.
-2. the  Sentinel l1-2 dataset used in our research. 
+2. the  Sentinel 1-2 dataset used in our research. 
 
 - Use `train.py` to start training. 
 
 - The WFLM-GAN model is located in the `models/wflm_gan_model.py`.
 
 
-##  Sentinel l-2 Dataset
-The Sentinel l-2 Dataset is used to support SAR-to-Optical image translation.
+##  Sentinel 1-2 Dataset
+The Sentinel 1-2 Dataset is used to support SAR-to-Optical image translation.
 
 
 
