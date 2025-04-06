@@ -89,14 +89,14 @@ The synthetic aperture radar (SAR) system is a kind of active remote sensing, wh
     </tr>
     <tr align="center">
   	    <td>WFLM-GAN</td> 
-        <td> 84.485 </td> 
-        <td> 25.393 </td> 
-        <td> 64.857 </td> 
-        <td> 0.591 </td>   
-        <td> 86.999 </td> 
-        <td> 26.198 </td> 
-        <td> 50.499 </td> 
-        <td> 0.564 </td> 
+        <td> <b>84.485</b> </td> 
+        <td> <b>25.393</b> </td> 
+        <td> <b>64.857</b> </td> 
+        <td> <b>0.591</b> </td>   
+        <td> <b>86.999</b> </td> 
+        <td> <b>26.198</b> </td> 
+        <td> <b>50.499</b> </td> 
+        <td> <b>0.564</b> </td> 
     </tr>
     <tr>
       <td>Dataset</td> 
@@ -171,14 +171,14 @@ The synthetic aperture radar (SAR) system is a kind of active remote sensing, wh
     </tr>
           <tr align="center">
   	  <td>WFLM-GAN</td> 
-        <td>88.921</td> 
-        <td>26.345</td> 
-        <td>50.396</td> 
-        <td>0.305</td>   
-        <td>87.304</td> 
-        <td>26.715</td> 
-        <td>86.968</td> 
-        <td>1.350</td> 
+        <td><b>88.921</b></td> 
+        <td><b>26.345</b></td> 
+        <td><b>50.396</b></td> 
+        <td><b>0.305</b></td>   
+        <td><b>87.304</b></td> 
+        <td><b>26.715</b></td> 
+        <td><b>86.968</b></td> 
+        <td><b>1.350</b></td> 
     </tr>
 </table>
 
