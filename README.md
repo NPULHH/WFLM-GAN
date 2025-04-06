@@ -89,7 +89,7 @@ The synthetic aperture radar (SAR) system is a kind of active remote sensing, wh
     </tr>
     <tr align="center">
   	    <td>WFLM-GAN</td> 
-        <td> **84.485** </td> 
+        <td> 84.485 </td> 
         <td> 25.393 </td> 
         <td> 64.857 </td> 
         <td> 0.591 </td>   
