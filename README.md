@@ -241,4 +241,4 @@ If you find our work useful in your research, please consider citing our paper:
 ```
 
 ## Acknowledgements
-This project is based on [Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/master). We thank the original authors for their excellent works.
+This project is based on [CycleGAN/Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/master). We thank the original authors for their excellent works.
